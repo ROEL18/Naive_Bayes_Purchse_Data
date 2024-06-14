@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to customize this template based on the specific details and requirements of your project.
+
